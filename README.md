@@ -1,4 +1,4 @@
-<div style="align-center">
+<div class="align-center">
   
 # ENUNCIADO DEL PROYECTO FINAL
 
