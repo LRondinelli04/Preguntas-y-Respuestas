@@ -1,4 +1,8 @@
+<div style="align-center">
+  
 # ENUNCIADO DEL PROYECTO FINAL
+
+</div>
 
 ## Juego de preguntas y respuestas
 
