@@ -1,6 +1,9 @@
-<div class="align-center">
+<div align="center"> 
   
 # ENUNCIADO DEL PROYECTO FINAL
+
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/LRondinelli04/Preguntas-y-Respuestas)](https://github.com/LRondinelli04/Preguntas-y-Respuestas)
+
 
 </div>
 
